@@ -1,0 +1,5 @@
+{
+  "name": "ViewInsta",
+  "description": "An application where users can watch videos to earn credits, participate in a referral program, and withdraw their earnings.",
+  "requestFramePermissions": []
+}
